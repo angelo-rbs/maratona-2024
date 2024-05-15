@@ -1,0 +1,26 @@
+
+
+* Calendário
+
+Fase 0: 25/05
+Fase 1: 31/08
+
+
+* Assuntos
+
+** [#A] Grafos
+
+** [#A] Programação dinâmica
+
+** [#A] Estruturas de dados 
+
+** [#B] Sorting/busca
+
+** [#B] Árvores
+
+** [#B] String
+
+** [#B] Range queries
+
+** [#C] Matemáticos
+
